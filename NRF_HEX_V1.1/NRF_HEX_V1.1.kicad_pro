@@ -617,6 +617,10 @@
     [
       "bb8210b4-4227-41c1-ac9f-b3d8509b5578",
       "Power_management"
+    ],
+    [
+      "651896d1-23e5-4ce2-8c39-66cb61d1a0a7",
+      "LED"
     ]
   ],
   "text_variables": {}
